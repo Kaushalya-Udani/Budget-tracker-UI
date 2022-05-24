@@ -1,16 +1,5 @@
-# budget_tracker
+# Budget Tracker UI
 
-A new Flutter application.
+![budget](https://user-images.githubusercontent.com/65672919/169947491-805cbf37-4573-48f2-8fa4-57f5d414edfe.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
